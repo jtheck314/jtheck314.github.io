@@ -9,5 +9,8 @@ Here is a link to my [college.](boisestate.edu)
 ### Ideas for future projects
 
 For now I am just working on school projects, but when I get some free time I will be working on the following projects:
+
   * A program that will win a game of Clue
   * Ecology simulation
+
+You can follow my progress on these projects through github!
